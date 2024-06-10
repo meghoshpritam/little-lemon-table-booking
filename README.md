@@ -5,11 +5,13 @@ The little lemon app is the capstone project for the Meta Front-End Developer Pr
 
 ## 📸 Screenshots
 
-![Preview 1/5](./static/1.png)
-![Preview 2/5](./static/2.png)
-![Preview 3/5](./static/3.png)
-![Preview 4/5](./static/4.png)
-![Preview 5/5](./static/5.png)
+![Preview 1/7](./static/1.png)
+![Preview 2/7](./static/2.png)
+![Preview 3/7](./static/3.png)
+![Preview 4/7](./static/4.png)
+![Preview 5/7](./static/5.png)
+![Preview 6/7](./static/6.png)
+![Preview 7/7](./static/7.png)
 
 ## 🚀 Technologies
 
